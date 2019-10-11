@@ -16,6 +16,9 @@ int main()
 		 
 		 // displays "output" to the user --> 'Hello World!' is displayed to the user while the program is running.
 		 cout << "Hello World!" << endl;
+		 // display another "output" to the user --> 'Lets learn some Japanese' will now be displayed after the greeting at the beginning of the program.
+		 std::cout << "The Japanese word for family is --> " << endl ;
+		 std::cout << "KAZOKU!" << endl;
 		 
 		 return 0; // returns that the program has ended successfully and there are no problems to be had at a later date.
 } // closing brace of main
