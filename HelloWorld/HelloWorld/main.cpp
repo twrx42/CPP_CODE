@@ -17,7 +17,7 @@ int main()
 		 // displays "output" to the user --> 'Hello World!' is displayed to the user while the program is running.
 		 cout << "Hello World!" << endl;
 		 // display another "output" to the user --> 'Lets learn some Japanese' will now be displayed after the greeting at the beginning of the program.
-		 std::cout << "The Japanese word for family is --> " << endl ;
+		 std::cout << "The Japanese word for family is --> " << endl ; // this is aother way to have the program display content to the user. this way is also an older form if the previous 'cout' statement used and also does not need the 'using namespace std' to be declared at the top of the program like most programs we will create later on in the CPP language will use. In this way we will free up a lot of space and time.
 		 std::cout << "KAZOKU!" << endl;
 		 
 		 return 0; // returns that the program has ended successfully and there are no problems to be had at a later date.
