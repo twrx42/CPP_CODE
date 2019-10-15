@@ -13,5 +13,6 @@ using namespace std;
 int main()
 {
 		 cout << "Welcome to the Project Number 1./n";
+		 cout <<  "In this project we are going to do some math problems!/n";
 		 return 0;
 }
